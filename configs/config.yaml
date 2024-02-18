@@ -1,5 +1,5 @@
 attack:
-  gpu: 0
+  gpu: 2
   outer_loops: 200
   alpha: 0.01
   eps: 0.15
